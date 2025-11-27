@@ -1,4 +1,6 @@
 # EX.-NO-1-C-IMPLEMENTATION-OF-HILL-CIPHER
+## NAME: ARCHANA S
+## REGISTER NO: 212223040019
 
 ## AIM:
 To write a C program to implement the hill cipher substitution techniques.
